@@ -13,6 +13,7 @@
 {{air_tips.DATA}}
 ```
 ![申请模板](./Photo/3.png)
+
 汇率转换模板
 ```
 今日USDT汇率 1：{{Usdt.DATA}}
