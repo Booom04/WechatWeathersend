@@ -1,8 +1,9 @@
-module wechat
+module WechatWeathersend
 
 go 1.19
 
 require (
+	github.com/robfig/cron v1.2.0
 	github.com/tidwall/gjson v1.14.4
 	gopkg.in/ini.v1 v1.67.0
 )
