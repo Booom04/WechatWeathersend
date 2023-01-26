@@ -23,7 +23,7 @@ func Weather() {
 	var city string
 	for _, v := range flist {
 		switch v.Str {
-		case "*************************":
+		case "*************************":  //填写openid
 			city = "**"
 			go sendweather(access_token, city, v.Str)
 		//case "*****************":
