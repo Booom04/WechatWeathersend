@@ -2,6 +2,8 @@
  参考 https://github.com/LeoNumber1/WechatTemplate 所写
 # 使用方法
 1. 申请测试号 https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
+   汇率api https://www.alphavantage.co
+
 2. 
 ![申请模板](./Photo/2.png)
 3. 标题随便写 内容填
